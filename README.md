@@ -6,12 +6,14 @@ https://github.com/vbenjs/vue-vben-admin/tree/main/apps/backend-mock
 
 
 ## 安装依赖包
+```bash
 pip install flask
 pip install PyJWT==2.3.0
+```
 
 ## 运行
-python app.py
+`python app.py`
 
 ## 访问
-http://127.0.0.1:5320
+`http://127.0.0.1:5320`
 
